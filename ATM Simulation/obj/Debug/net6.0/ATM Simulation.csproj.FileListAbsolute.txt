@@ -1,0 +1,15 @@
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\bin\Debug\net6.0\ATM Simulation.exe
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\bin\Debug\net6.0\ATM Simulation.deps.json
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\bin\Debug\net6.0\ATM Simulation.runtimeconfig.json
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\bin\Debug\net6.0\ATM Simulation.dll
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\bin\Debug\net6.0\ATM Simulation.pdb
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\ATM Simulation.csproj.AssemblyReference.cache
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\ATM Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\ATM Simulation.AssemblyInfoInputs.cache
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\ATM Simulation.AssemblyInfo.cs
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\ATM Simulation.csproj.CoreCompileInputs.cache
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\ATM Simulation.dll
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\refint\ATM Simulation.dll
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\ATM Simulation.pdb
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\ATM Simulation.genruntimeconfig.cache
+C:\Users\jangi\OneDrive\Desktop\c# projects\ATM Simulation\ATM Simulation\obj\Debug\net6.0\ref\ATM Simulation.dll
